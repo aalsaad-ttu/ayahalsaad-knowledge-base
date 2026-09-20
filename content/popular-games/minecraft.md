@@ -19,3 +19,6 @@ Players can choose between different experiences, including Survival and Creativ
 Minecraft is very different from [[popular-games/grand-theft-auto-v|Grand Theft Auto V]], but both games give players large worlds where they can choose what they want to do instead of following one path all the time. Minecraft is much more focused on creativity, while GTA V focuses more on missions, vehicles, and its city environment.
 
 That freedom is what makes Minecraft stand out to me. Two players can start the same game and end up having completely different experiences.
+## Minecraft Guide
+
+![[Minecraft-Media-Study-Guide.pdf]]
