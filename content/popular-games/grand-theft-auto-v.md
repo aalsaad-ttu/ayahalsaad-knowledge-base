@@ -1,7 +1,7 @@
 ---
 title: Grand Theft Auto V
 ---
-
+GTA V is one of the best known examples of an [[game-genres/open-world-games|open-world game]].
 # Grand Theft Auto V
 
 Grand Theft Auto V is a game that stands out because of how much there is to do outside of the main story. The game takes place in a large open world, and players can drive around, explore different areas, complete missions, and interact with the world in different ways. I think the amount of freedom the game gives players is one of the main reasons it has stayed popular for so many years.

@@ -1,7 +1,7 @@
 ---
 title: Minecraft
 ---
-
+Minecraft gives players a lot of freedom to explore, similar to some [[game-genres/open-world-games|open-world games]].
 # Minecraft
 
 Minecraft is probably one of the most recognizable games because of how simple it looks while still giving players so much freedom. The entire world is made out of blocks, but players can use those blocks to build almost anything they want. I think that freedom is one of the biggest reasons Minecraft has remained popular for so long.

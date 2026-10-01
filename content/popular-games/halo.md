@@ -1,7 +1,7 @@
 ---
 title: Halo
 ---
-
+Halo has a strong connection to [[gaming-platforms/xbox|Xbox]] and the [[game-genres/first-person-shooters|first-person shooter]] genre.
 # Halo
 
 Halo is another game series that stands out to me because it has a completely different style from most military shooters. Instead of focusing on realistic weapons and modern warfare, Halo takes place in a science-fiction universe with futuristic weapons, vehicles, aliens, and large environments. That setting is one of the biggest reasons the game feels unique. My husband and I also have completed all the campaigns together. 

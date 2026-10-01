@@ -5,7 +5,7 @@ title: Call of Duty
 ---
 title: Call of Duty
 ---
-
+Call of Duty is also a good example of the [[game-genres/first-person-shooters|first-person shooter]] genre.
 # Call of Duty
 
 Call of Duty is one of the game series that I have always connected with when I think about multiplayer gaming. The series has been around for a long time, and there are many different versions of it, but the main thing that keeps people coming back is the fast-paced gameplay. I like that there are different ways to play depending on what kind of mood you are in.

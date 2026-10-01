@@ -1,7 +1,7 @@
 ---
 title: God of War
 ---
-
+God of War has been closely connected with [[gaming-platforms/playstation|PlayStation]].
 # God of War
 
 God of War is different from most of the other games in this section because it is much more focused on story and single-player gameplay. The series follows Kratos, a warrior who has faced gods and other powerful enemies throughout his life. What interests me about God of War is that the newer games are not only about fighting. They also focus heavily on Kratos as a character and his relationship with his son, Atreus.
